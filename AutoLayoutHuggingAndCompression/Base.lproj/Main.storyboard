@@ -33,11 +33,12 @@
                                     </textField>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalCompressionResistancePriority="749" image="IosInsight.png" translatesAutoresizingMaskIntoConstraints="NO" id="N8J-Me-mJx">
                                         <rect key="frame" x="0.0" y="71" width="590" height="499"/>
+                                        <color key="backgroundColor" red="0.83661187329999998" green="0.87978567110000006" blue="0.92592147440000006" alpha="1" colorSpace="calibratedRGB"/>
                                     </imageView>
                                 </subviews>
                             </stackView>
                         </subviews>
-                        <color key="backgroundColor" red="0.83661187329999998" green="0.87978567110000006" blue="0.92592147440000006" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstAttribute="trailing" secondItem="gTx-Yl-kce" secondAttribute="trailing" constant="5" id="NFX-wg-eyB"/>
                             <constraint firstItem="gTx-Yl-kce" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="5" id="OEh-AZ-P1a"/>
