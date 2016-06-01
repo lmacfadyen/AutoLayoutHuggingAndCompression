@@ -12,6 +12,8 @@
 		11FDA16E1CECCBD300856727 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11FDA16C1CECCBD300856727 /* Main.storyboard */; };
 		11FDA1701CECCBD300856727 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11FDA16F1CECCBD300856727 /* Assets.xcassets */; };
 		11FDA1731CECCBD300856727 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11FDA1711CECCBD300856727 /* LaunchScreen.storyboard */; };
+		11FDA1861CF3301500856727 /* IosInsight.png in Resources */ = {isa = PBXBuildFile; fileRef = 11FDA1841CF3301500856727 /* IosInsight.png */; };
+		11FDA1871CF3301500856727 /* Sunset.png in Resources */ = {isa = PBXBuildFile; fileRef = 11FDA1851CF3301500856727 /* Sunset.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		11FDA16F1CECCBD300856727 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11FDA1721CECCBD300856727 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		11FDA1741CECCBD300856727 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11FDA1841CF3301500856727 /* IosInsight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IosInsight.png; sourceTree = "<group>"; };
+		11FDA1851CF3301500856727 /* Sunset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sunset.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		11FDA1671CECCBD300856727 /* AutoLayoutHuggingAndCompression */ = {
 			isa = PBXGroup;
 			children = (
+				11FDA1841CF3301500856727 /* IosInsight.png */,
+				11FDA1851CF3301500856727 /* Sunset.png */,
 				11FDA1681CECCBD300856727 /* AppDelegate.swift */,
 				11FDA16A1CECCBD300856727 /* ViewController.swift */,
 				11FDA16C1CECCBD300856727 /* Main.storyboard */,
@@ -122,8 +128,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11FDA1871CF3301500856727 /* Sunset.png in Resources */,
 				11FDA1731CECCBD300856727 /* LaunchScreen.storyboard in Resources */,
 				11FDA1701CECCBD300856727 /* Assets.xcassets in Resources */,
+				11FDA1861CF3301500856727 /* IosInsight.png in Resources */,
 				11FDA16E1CECCBD300856727 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
